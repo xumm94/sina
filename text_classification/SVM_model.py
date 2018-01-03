@@ -21,7 +21,7 @@ if __name__ =='__main__':
 
 	print("Data load complete")
 
-	x_train, x_test, y_train, y_test = train_test_split(nihao, doubi, random_state=1, train_size=0.8)
+	x_train, x_test, y_train, y_test = train_test_split(feature, label, random_state=1, train_size=0.8)
 
 	print("Start Training")
 
