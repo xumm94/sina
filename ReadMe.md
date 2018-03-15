@@ -68,7 +68,6 @@
  	其中，几个文件需要说明
  	（1）feature_extract.R
  		R语言编写的程序，用于提取声音的特征。
- 		R程序相关以及数据集下载请参考https://github.com/primaryobjects/voice-gender
  	（2）load_model_test.py
  		用于线下测试python调用R提取特征，然后用xgboost分类。
  	（3）voiceGender.py
