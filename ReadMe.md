@@ -1,6 +1,4 @@
  1.fasttext
-  直接使用的facebook开源代码，代码github地址：https://github.com/facebookresearch/fastText
-  在github中有详细的代码使用说明，我就是按照这上面的命令调用训练的。
   代码及数据放置在：10.77.9.21 /data1/shixin5/workspace/xummworkspace/xummworkspace/fastText_without_entertainment/fastText-0.1.0
   其中，有三个文件需要特殊说明：
   （1）3Ngram_3mincount_1wminlabel.bin 
@@ -27,8 +25,6 @@
 
 
  2.starspace
- 	直接使用的facebook开源代码，代码github地址：https://github.com/facebookresearch/StarSpace
- 	在github中有详细的代码使用说明，我就是按照这上面的命令调用训练的。
  	代码及数据放置在：10.77.9.21 /data1/shixin5/workspace/xummworkspace/xummworkspace/starspace/StarSpace
  	其中：
  	（1）2_ngrams_0.05_dropoutLHS_100_dim 
